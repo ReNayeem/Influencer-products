@@ -1,1 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope:wght@400;500&family=Poppins:wght@300;400;500;600;700&family=Roboto:wght@700&display=swap');
+
+/* variable define */
+:root{
+    --primary-color: #ffb922;
+    --secondary-color: #00a149;
+    --white-color: #fff;
+    --text-color: #b0b0b0;
+    --black-color: #1e1d23;
+    --poppins: 'Poppins', sans-serif;
+    --roboto: 'Roboto', sans-serif;
+    --inter: 'Inter', sans-serif;
+    --manrope: 'Manrope', sans-serif;
+}
+/* variable define end */
+
+/* nav start */
+.brand-font{
+    color: #3e3e3e !important;
+    font-family: var(--poppins);
+    font-size: 22px;
+    font-weight: 700;
+}
+
+nav li{
+    color: #3e3e3e !important;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-family: 500;
+}
+/* nav end */
