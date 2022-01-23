@@ -131,6 +131,7 @@ nav li{
 }
 /* package section start end */
 
+/* frequently asked questions start */
 .accordion-item{
     border: 2px solid #d5e5fbb4 !important;
 }
@@ -147,3 +148,78 @@ nav li{
     font-family: var(--inter);
     font-size: 16px;
 }
+/* frequently asked questions end */
+
+/* fifth section */
+.wrapper{
+    padding-top: 4.25rem;
+    padding-bottom: 4.25rem;
+}
+
+.testimonial-section{
+    background: olive;
+}
+
+.testimonial-section h2{
+    color: white;
+}
+
+.testimonial-section .carousel-item{
+    padding: 10rem 3.125rem;
+    background-color: black;
+    border-radius: .9375rem;
+    text-align: center;
+}
+
+.testimonial-section .carousel-caption img{
+    max-width: 5rem;
+    border-radius: 50%;
+    padding: .3125rem;
+}
+
+.testimonial-section .carousel-caption p{
+    font-size: 1.125rem;
+    line-height: 1.5625rem;
+    font-weight: 300;
+    color: white;
+    padding: 0 11% .625rem;
+}
+
+.testimonial-section .carousel-indicators{
+    bottom: -2.8125rem;
+}
+
+.testimonial-section .carousel-indicators button{
+    width: 15px;
+    height: 15px;
+    outline: none;
+    border-radius: 50%;
+    border: none;
+    opacity: .3;
+}
+
+.testimonial-section .carousel-indicators button.active{
+    opacity: 1;
+}
+/* fifth section end */
+
+/* footer start */
+footer{
+    background-color: #0B0D17 !important;
+}
+
+.footer-style{
+    height: 280px;
+    color: #D9DBE1;
+    font-family: var(--manrope);
+}
+
+.footer-font-p-1{
+    font-size: 14px;
+}
+
+.footer-font-p-2{
+    font-size: 28px;
+    font-weight: 500;
+}
+/* footer end */
