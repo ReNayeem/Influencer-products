@@ -60,7 +60,7 @@ nav li{
 /* carousel start end */
 
 /* package section start */
-.package-section h2{
+.package-section h2, .asked-questions h2{
     font-family: var(--poppins);
     font-weight: 600;
     color: #0A0826;
