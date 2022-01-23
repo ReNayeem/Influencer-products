@@ -150,7 +150,7 @@ nav li{
 }
 /* frequently asked questions end */
 
-/* fifth section */
+/* testimonial section */
 .wrapper{
     padding-top: 4.25rem;
     padding-bottom: 4.25rem;
@@ -201,7 +201,7 @@ nav li{
 .testimonial-section .carousel-indicators button.active{
     opacity: 1;
 }
-/* fifth section end */
+/* testimonial section end */
 
 /* footer start */
 footer{
