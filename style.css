@@ -134,3 +134,16 @@ nav li{
 .accordion-item{
     border: 2px solid #d5e5fbb4 !important;
 }
+
+.accordion-item .accordion-font-h2{
+    color: #383838;
+    font-family: var(--inter);
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.accordion-item .accordion-font-p{
+    color: #7E848C;
+    font-family: var(--inter);
+    font-size: 16px;
+}
