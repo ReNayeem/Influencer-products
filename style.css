@@ -66,6 +66,10 @@ nav li{
     color: #0A0826;
 }
 
+.card{
+    cursor: pointer;
+}
+
 .card h3, .card h4{
     font-family: var(--roboto);
     color: #231D4F;
