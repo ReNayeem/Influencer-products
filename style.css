@@ -59,3 +59,70 @@ nav li{
 }
 /* carousel start end */
 
+/* package section start */
+.package-section h2{
+    font-family: var(--poppins);
+    font-weight: 600;
+    color: #0A0826;
+}
+
+.card h3, .card h4{
+    font-family: var(--roboto);
+    color: #231D4F;
+    font-weight: 700;
+}
+
+.card p{
+    color: #848199;
+    font-size: 15px;
+    font-family: var(--poppins);
+}
+
+.card .button{
+    padding: 8px 80px;
+    border-radius: 20px;
+    background-color: #ffe7f6a8;
+    text-decoration: none;
+    color: #3f88f5c9;
+}
+
+.fa-check-circle{
+    padding-right: 7px;
+    color: #b8b1f1;
+}
+
+.card-plus{
+    background-color: #3F87F5;
+    border-radius: 26px;
+    box-shadow: 0px 10px 9px 9px #accbfa85;
+    margin-bottom: 18px !important;
+    top: 0;
+    transition: all 2s;
+}
+
+.card-plus h3, .card-plus h4, .card-plus p{
+    color: white !important;
+}
+
+.card-plus .fa-check-circle{
+    color: #8eb6f1;
+}
+
+.card-plus .button{
+    background-color: white;
+}
+
+.card-plus .hot{
+    font-size: 14px;
+    font-family: var(--roboto);
+    border-radius: 13.5px;
+    padding: 8px 12px;
+    background-color: #FF4E4E;
+}
+
+.card-plus:hover{
+    display: inline-block;
+    top: -30px;
+}
+/* package section start end */
+
