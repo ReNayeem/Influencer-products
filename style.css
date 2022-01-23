@@ -19,7 +19,6 @@
     color: #3e3e3e !important;
     font-family: var(--poppins);
     font-size: 22px;
-    font-weight: 700;
 }
 
 nav li{
@@ -29,3 +28,34 @@ nav li{
     font-family: 500;
 }
 /* nav end */
+
+/* carousel start */
+.carousel{
+    margin-top: 59px;
+}
+
+.carousel-image{
+    height: 70vh;
+    background-position: center;
+    background-color: rgb(0, 0, 0, .3);
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+}
+
+.image-1{
+    background-image: url(images/carousel/img-1.jpg);
+}
+
+.image-2{
+    background-image: url(images/carousel/img-2.jpg);
+}
+
+.image-3{
+    background-image: url(images/carousel/img-3.jpg);
+}
+
+.image-4{
+    background-image: url(images/carousel/img-4.jpg);
+}
+/* carousel start end */
+
