@@ -35,9 +35,9 @@ nav li{
 }
 
 .carousel-image{
-    height: 70vh;
+    height: 75vh;
     background-position: center;
-    background-color: rgb(0, 0, 0, .3);
+    background-color: rgb(0, 0, 0, .4);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
 }
@@ -56,6 +56,21 @@ nav li{
 
 .image-4{
     background-image: url(images/carousel/img-4.jpg);
+}
+
+.carousel-image h5{
+    font-weight: 600;
+    font-size: 48px;
+    font-family: var(--poppins);
+}
+
+.carousel-image p{
+    font-family: var(--poppins);
+    font-family: 300;
+}
+
+.carousel-image button{
+    color: #3F87F5;
 }
 /* carousel start end */
 
