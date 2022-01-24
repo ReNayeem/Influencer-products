@@ -157,24 +157,23 @@ nav li{
 }
 
 .testimonial-section{
-    background: olive;
+    background: #e0ccffce;
+    font-family: var(--poppins);
 }
 
 .testimonial-section h2{
-    color: white;
+    color: #be93fd;
 }
 
 .testimonial-section .carousel-item{
     padding: 10rem 3.125rem;
-    background-color: black;
+    background-color: #be93fd;
     border-radius: .9375rem;
     text-align: center;
 }
 
 .testimonial-section .carousel-caption img{
     max-width: 5rem;
-    border-radius: 50%;
-    padding: .3125rem;
 }
 
 .testimonial-section .carousel-caption p{
@@ -187,19 +186,6 @@ nav li{
 
 .testimonial-section .carousel-indicators{
     bottom: -2.8125rem;
-}
-
-.testimonial-section .carousel-indicators button{
-    width: 15px;
-    height: 15px;
-    outline: none;
-    border-radius: 50%;
-    border: none;
-    opacity: .3;
-}
-
-.testimonial-section .carousel-indicators button.active{
-    opacity: 1;
 }
 /* testimonial section end */
 
