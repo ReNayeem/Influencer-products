@@ -63,6 +63,12 @@ nav li{
 }
 /* carousel start end */
 
+/* toast start */
+.toast-edit{
+    width: 15rem;
+}
+/* toast end */
+
 /* package section start */
 .package-section h2, .asked-questions h2{
     font-family: var(--poppins);
