@@ -93,7 +93,7 @@ nav li{
 }
 
 .card .button{
-    padding: 8px 80px;
+    padding: 8px 69px;
     border-radius: 20px;
     background-color: #ffe7f6a8;
     text-decoration: none;
@@ -101,7 +101,6 @@ nav li{
 }
 
 .fa-check-circle{
-    padding-right: 7px;
     color: #b8b1f1;
 }
 
@@ -211,6 +210,7 @@ footer{
 
 .footer-font-p-1{
     font-size: 14px;
+    margin-top: 16px;
 }
 
 .footer-font-p-2{
