@@ -65,7 +65,10 @@ nav li{
 
 /* toast start */
 .toast-edit{
-    width: 15rem;
+    width: 16rem;
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 14px;
 }
 /* toast end */
 
