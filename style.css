@@ -16,6 +16,10 @@
     font-size: 22px;
 }
 
+nav{
+    box-shadow: 0px 1px 5px 5px rgba(0, 0, 0, 0.116);
+}
+
 nav li{
     color: #3e3e3e !important;
     font-family: var(--poppins);
@@ -67,7 +71,6 @@ nav li{
 }
 
 .card{
-    cursor: pointer;
     width: 18rem;
 }
 
